@@ -1,6 +1,8 @@
 <div align="center">
 
-# SageRead
+# SogaRead
+
+Forked from [sageread](https://github.com/xincmm/sageread)
 
 **一款支持 AI 对话的电子书阅读器**
 
